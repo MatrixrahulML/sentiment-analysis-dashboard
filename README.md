@@ -2,7 +2,7 @@
 
 A live brand/topic sentiment tracker using VADER sentiment analysis on real-time news headlines, with trend charts and threshold-based alerts.
 
-**[🚀 Live Demo](#)** &nbsp;|&nbsp; **[📂 Portfolio](https://maatrixxrahul.netlify.app)**
+**[🚀 Live Demo](#)** &nbsp;|&nbsp; **[📂 Portfolio](https://matrixrahul.netlify.app)**
 
 ## Overview
 
@@ -16,7 +16,7 @@ A live brand/topic sentiment tracker using VADER sentiment analysis on real-time
 
 ## Tech Stack
 
-- **VADER (vaderSentiment)** — rule-based sentiment scoring
+- **VADER (vaderSentiment)** - rule-based sentiment scoring
 - **feedparser** — RSS ingestion
 - **Streamlit** — dashboard
 - **Plotly** — trend, distribution, and source charts
@@ -24,7 +24,7 @@ A live brand/topic sentiment tracker using VADER sentiment analysis on real-time
 ## Run Locally
 
 ```bash
-git clone https://github.com/maatrixxrahul/sentiment-analysis-dashboard.git
+git clone https://github.com/matrixrahulMl/sentiment-analysis-dashboard.git
 cd sentiment-analysis-dashboard
 pip install -r requirements.txt
 streamlit run app.py
@@ -32,4 +32,4 @@ streamlit run app.py
 
 ## Author
 
-**Rahul Sah** — [GitHub](https://github.com/maatrixxrahul) · [Portfolio](https://maatrixxrahul.netlify.app)
+**Rahul Sah** — [GitHub](https://github.com/matrixrahulMl) · [Portfolio](https://matrixrahul.netlify.app)
