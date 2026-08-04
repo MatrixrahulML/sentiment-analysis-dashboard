@@ -1,6 +1,6 @@
 """
 Sentiment Analysis Dashboard
-Rahul Sah | maatrixxrahul
+Rahul Sah | matrixrahulML
 
 Real-time brand sentiment tracker using VADER sentiment analysis on live
 news headlines (Google News RSS), with trend charts and threshold alerts.
@@ -195,6 +195,6 @@ if st.button("Analyze Text"):
 st.markdown("---")
 st.markdown(
     "Built by **Rahul Sah** · "
-    "[GitHub](https://github.com/maatrixxrahul) · "
-    "[Portfolio](https://maatrixxrahul.netlify.app)"
+    "[GitHub](https://github.com/matrixrahulML) · "
+    "[Portfolio](https://matrixrahul.netlify.app)"
 )
